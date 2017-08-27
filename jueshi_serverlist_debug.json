@@ -1,0 +1,11 @@
+[
+	{
+		"id":1,
+		"name":"localhost",
+		"port":8600,
+		"state":1,
+		"time":1,
+		"url":"ws://127.0.0.1",
+		"kf":0
+	}
+]
